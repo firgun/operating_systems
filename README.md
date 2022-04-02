@@ -10,7 +10,7 @@ A list of resources I'm using to study operating systems (or plan on studying in
 It's important to have a plan, complete with actionable steps and deadlines!
 
 ## Operating Systems Three Easy Pieces (OSTEP)
-It's free! Here's the book's (page)[https://pages.cs.wisc.edu/~remzi/OSTEP/#homework], (homeworks)[https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html] and (projects)[https://github.com/remzi-arpacidusseau/ostep-projects]
+It's free! Here's the book's [page](https://pages.cs.wisc.edu/~remzi/OSTEP/#homework), [homeworks](https://pages.cs.wisc.edu/~remzi/OSTEP/Homework/homework.html) and [projects](https://github.com/remzi-arpacidusseau/ostep-projects)
 
 - [ ] Introduction to Operating Systems
 - [ ] Virtualization
